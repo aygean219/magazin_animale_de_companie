@@ -1,0 +1,2 @@
+Animal 554 papagal 100 01.04.2020 2 5
+Produs 361 mancare_pesti 30 11.12.2019 12 01.01.2022

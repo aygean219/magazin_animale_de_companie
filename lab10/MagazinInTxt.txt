@@ -1,0 +1,6 @@
+Produs 1 mancare 40 19/2/2019 20 14/12/2030
+Produs 2 minge 20 27/9/2019 50 30/11/2025
+Animal 3 caine 20 12/4/2020 2 5
+Animal 4 peste 10 12/2/2020 10 5
+Animal 5 iepure 12 30/12/2018 4 3
+Produs 6 lesa 10 17/12/2010 50 10/10/2030

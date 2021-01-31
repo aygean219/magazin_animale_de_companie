@@ -1,0 +1,4 @@
+Animal 554 papagal 100 1/4/2020 10 2
+Produs 554 mancare_pesti 30 11/12/2019 12 1/1/2022
+Animal 555 papagal 60 3/5/2020 3 1
+Produs 554 mancare_pesti 30 11/12/2019 12 1/1/2022
